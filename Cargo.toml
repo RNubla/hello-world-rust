@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 reqwest = "0.9.24"
 read_input = "0.8.2"
+curl = "0.4.25"
